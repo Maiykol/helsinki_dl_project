@@ -1,4 +1,5 @@
 train
+test
 .ipynb_checkpoints
 image-training-corpus+annotations
 .vscode
